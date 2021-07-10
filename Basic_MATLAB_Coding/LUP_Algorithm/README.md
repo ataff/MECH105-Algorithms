@@ -1,2 +1,2 @@
-# This Folder Contains a Simple LUP ALgorithm
+# This Folder Contains a Simple LUP Algorithm
 
