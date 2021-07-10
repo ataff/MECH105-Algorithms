@@ -1,3 +1,1 @@
-# This Folder Contains a Simple LUP Algorithm
-
-LUP Algorithm in MATLAB
+# This Folder Contains a Simple MATLAB LUP Algorithm
