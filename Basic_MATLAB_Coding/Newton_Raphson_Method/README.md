@@ -1,1 +1,1 @@
-# This Folder Contains a MATLAB Code to solve for Newton Raphson Method
+# This Folder Contains a MATLAB Code to Solve for Newton Raphson Method
