@@ -1,3 +1,3 @@
-# This Folder Contains a MATLAB Script of PLotting 
+# This Folder Contains MATLAB Scripts of PLotting 
 
 Graphing and plotting using MATLAB
